@@ -1,10 +1,10 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-group = 'org.beginsecure'
+group = 'org.qrapp'
 version = '1.0.0'
 
-mainClassName = 'org.beginsecure.Main'
+mainClassName = 'org.qrapp.Main'
 
 repositories {
     mavenCentral()
