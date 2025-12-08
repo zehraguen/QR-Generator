@@ -1,5 +1,7 @@
 package org.qrapp;
 
+import org.qrapp.core.ReedSolomon;
+
 import java.io.IOException;
 
 public class QRCodeGenerator {
